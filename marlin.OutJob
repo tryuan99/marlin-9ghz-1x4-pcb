@@ -72,7 +72,7 @@ OutputEnabled3_OutputMedium2=2
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.48|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.84|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\tryua\Documents\Altium\dory-x\DORY.PcbDoc
 Configuration3_Name2=OutputConfigurationParameter2
@@ -145,7 +145,7 @@ OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.79|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\tryua\Documents\Altium\marlin-x-2x4\MARLIN.PcbDoc
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\MARLIN.PcbDoc
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
@@ -239,7 +239,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\tryua\Documents\Altium\marlin-x-2x4\Project Outputs for marlin-x-2x4
+OutputFilePath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\Project Outputs for marlin-9ghz-1x4
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for marlin-9ghz-1x4
 OutputPathMedia3=
@@ -293,7 +293,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\tryua\Documents\Altium\marlin-x-2x4\Project Outputs for marlin-x-2x4
+RelativeOutputPath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\Project Outputs for marlin-9ghz-1x4
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
