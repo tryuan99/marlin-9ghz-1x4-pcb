@@ -1,0 +1,1484 @@
+$begin 'AnsoftComponentChkSum'
+	ChecksumString='1a680a09953e62531edb5e97807f26d5'
+	ChecksumHistory()
+	VersionHistory()
+	FormatVersion=11
+	Version(2025, 2)
+	ComponentDefinitionType='DesignDerivedComponentDefinition'
+$end 'AnsoftComponentChkSum'
+$begin 'AnsoftComponentHeader'
+	$begin 'Information'
+		$begin 'ComponentInfo'
+			ComponentName='t_junction_ro4350b_4L'
+			Company=''
+			'Company URL'=''
+			'Model Number'=''
+			'Help URL'=''
+			Version='1.0'
+			Notes=''
+			IconType=''
+			Owner='Titan Yuan'
+			Email=''
+			Date='12:41:43 AM  Jul 21, 2026'
+			HasLabel=false
+			LabelImage=''
+		$end 'ComponentInfo'
+	$end 'Information'
+	$begin 'DesignDataDescriptions'
+		$begin 'DesignSettings'
+			ProductName='HFSS'
+			SolutionType='HFSS Modal Network'
+			$begin 'DrivenOptions'
+				AutoOpen=false
+			$end 'DrivenOptions'
+		$end 'DesignSettings'
+		$begin 'Component Meshing'
+			Type='Volume'
+		$end 'Component Meshing'
+	$end 'DesignDataDescriptions'
+	$begin 'Preview'
+		Image='/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQE\
+BAQICAQECAQEBAgICAgICAgICAQICAgICAgICAgL/2wBDAQEBAQEBAQEBAQECAQEBAgICAgICAgICAg\
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgL/wAARCADIAMgDASIAAhEBAxEB/\
+8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQR\
+BRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUp\
+TVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5us\
+LDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAA\
+AECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHB\
+CSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ\
+3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4u\
+Pk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iiiigAooooAKKKKACiiigAooooAKKKKACiii\
+gAooooAKKKKACivym/4KrfFX4g2ng79nr9k/wCCPj7xR8Nfjb+2n8fPB3wu0Tx14F1jUNC8bfD/AOF/\
+hjUdP8X/ABk+Ivh3VNJu4Lm1m03w9babbTmGRHa28RTBXU81xH7BP7Y/jiH/AIJ3/GjxJ8ZX1H4h/tC\
+fsAW3x8+F3xx07XfEV5F4g8beK/2dtL1zWtKutW8Tapa312brWfC1ho0NxrFzBeyz6jDf3TrcypJGQD\
+9kKK/Db4E/8FkvFvxP8dfsjWPxH/Yi+InwV+D37Z1wfDXwh+M+qfFLwp4stNS+IFtYR/b9GHgvTPD9t\
+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\
+FKjUwvEXD2MdanGdOcZ1qlLD1cHSvKl7OeLVZVYukoy3y7JKPEHEPC2ArPD00swpVVVxVGniKOHdOlW\
+csVKnUjJNYanz15KMZTnCEqcIyc+V+lf8EtP2GdI8ZWOu/tJ/Dn9on9o3w78EfBfxH+MHw7/YF/tXUP\
+gr8Rr7QvhA+sL4a+Kfxe8Oab8VvgjqGn/DTUfHXj7QvERfT7HwZ4S8RaXZ2F/Y6rqHiCy1gXL/AHT+0\
+Z8Bv+Ci+gfDj9ou++B/7Z3ir4zXHi34R+J/A/wl+EPin4E/A7w58RfD3i7xZoOmaBa+NdE+O/w++Ivw\
+nt9E8UaZr0uq6lbapLGkGlaXcSeRoPiHXLGwa8/S7wF4H8L/AAx8DeDPht4H0v8AsTwV8PfCfh3wP4P\
+0X7bqOpf2R4X8J6PZ6D4f0v8AtHV7u4u9Q+z6Tp9pF591PPcS+V5k80krM7dZX4zlnAeWYHI6OVKvic\
+HXcHKrPB4zGYan7edPknOnRhWVF0oXUaNGtSq0o06dGE4TVNHk8ZZBw9xLmmc18thjuHssxtfETw1HC\
+ZjjcMsPCq6vK/YUMRHBSqSdSVevTeGeEq4qdSrLDtS5V+Df/BMO1/4LteDtJ07w7+3D4Y/Z68X/AA00\
+vxDZeFYp/iv8XotM/al0XwpZWfw8sU8Z6V4p+A3gnxn4U+LGg22hW3jEw6d4pu9K8Y694juLi41rxbY\
+aYtnLdfvJRRX1WV5csqwdLBRxlfGwopKM8RNVKllpZzUYt/PbZWWhjkuVRyXAUMvhj8TmFPDxUY1MVU\
+VWrZKyTqKEG/mrLZWWgUUUV6J6oUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV/CL\
+/wUN/Yw/b0+FP8AwcW/sUfFT4QfGO68Z+Nf2z/ivJ42+FvxSv8AQPC3gPRvhr8Ovgh4kttT+NPwJ8X+\
+BvAvxg8Naj8Yfh14I/Zd0/wnLrP2nUvDN98RNF1qfw/bXV/r8mpyyf3dUV+r+EXi1m3hBnWf5zlOS5b\
+nk+IcmzHJ6tPMsDg8bGlDG017PE4f63h8R9Xr4fE0qFV1KCp1qtCNbCxrUViHVhz4qjUxNB4eGJqYWE\
+5QlN0pyg5xi7unNwcXKnLd05Nwc1CcoydONiiiivyg6AooooAKKKKACiiigAooooAKKKKACiiigAooo\
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo\
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo\
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA\
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig\
+AooooAKKKKACiiigAooooAKKKKAP//Z'
+	$end 'Preview'
+	ContainsLightweightGeometry=false
+$end 'AnsoftComponentHeader'
+$begin 'ComponentBody'
+	$begin 'HFSSModel'
+		$begin 'Variables'
+		$end 'Variables'
+		$begin 'Datasets'
+		$end 'Datasets'
+		$begin 'DesignData'
+			$begin 'DesignSettings'
+				'Allow Material Override'=true
+				IncludeTemperatureDependence=false
+				EnableFeedback=false
+				Temperatures(-1, '22cel', 6, '22cel', 34, '22cel', 62, '22cel', 90, '22cel', 146, '22cel', 174, '22cel', 202, '22cel', 215, '22cel', 832, '22cel', 859, '22cel', 889, '22cel', 916, '22cel', 943, '22cel', 1018, '22cel', 1045, '22cel', 1072, '22cel', 1214, '22cel', 1242, '22cel', 1356, '22cel', 1397, '22cel', 1437, '22cel', 1449, '22cel', 1462, '22cel', 1491, '22cel')
+				ObjsEnabledForDeformation()
+			$end 'DesignSettings'
+			$begin 'DCThickness'
+				DCThicknessObjects(146, '"<Effective>"', 1214, '"<Effective>"', 1242, '"<Effective>"', 1356, '"<Effective>"', 1397, '"<Effective>"')
+			$end 'DCThickness'
+			$begin 'Circuit Elements'
+			$end 'Circuit Elements'
+			$begin 'PMLGroups'
+			$end 'PMLGroups'
+			$begin 'MeshOperations'
+				$begin 'GlobalSurfApproximation'
+					CurvedSurfaceApproxChoice='UseSlider'
+					SliderMeshSettings=5
+				$end 'GlobalSurfApproximation'
+				$begin 'GlobalCurvilinear'
+					Apply=false
+				$end 'GlobalCurvilinear'
+				$begin 'GlobalModelRes'
+					UseAutoLength=true
+				$end 'GlobalModelRes'
+				MeshMethod='Auto'
+				UseLegacyFaceterForTauVolumeMesh=false
+				DynamicSurfaceResolution=false
+				UseFlexMeshingForTAUvolumeMesh=false
+				UseAlternativeMeshMethodsAsFallBack=true
+				AllowPhiForLayeredGeometry=true
+			$end 'MeshOperations'
+		$end 'DesignData'
+	$end 'HFSSModel'
+	$begin 'MaterialDefinitions'
+		$begin 'Variables'
+		$end 'Variables'
+		$begin 'Datasets'
+		$end 'Datasets'
+		$begin 'Definitions'
+			$begin 'Materials'
+				$begin 'copper'
+					CoordinateSystemType='Cartesian'
+					BulkOrSurfaceType=1
+					$begin 'PhysicsTypes'
+						set('Electromagnetic', 'Thermal', 'Structural')
+					$end 'PhysicsTypes'
+					$begin 'AttachedData'
+						$begin 'MatAppearanceData'
+							property_data='appearance_data'
+							Red=242
+							Green=140
+							Blue=102
+						$end 'MatAppearanceData'
+					$end 'AttachedData'
+					permeability='0.999991'
+					conductivity='58000000'
+					thermal_conductivity='400'
+					mass_density='8933'
+					specific_heat='385'
+					youngs_modulus='120000000000'
+					poissons_ratio='0.38'
+					thermal_expansion_coefficient='1.77e-05'
+					ModTime=1499970477
+					Library='Materials'
+					LibLocation='SysLibrary'
+					ModSinceLib=false
+				$end 'copper'
+				$begin 'vacuum'
+					CoordinateSystemType='Cartesian'
+					BulkOrSurfaceType=1
+					$begin 'PhysicsTypes'
+						set('Electromagnetic')
+					$end 'PhysicsTypes'
+					$begin 'AttachedData'
+						$begin 'MatAppearanceData'
+							property_data='appearance_data'
+							Red=230
+							Green=230
+							Blue=230
+							Transparency=0.94999998807907104
+						$end 'MatAppearanceData'
+					$end 'AttachedData'
+					permittivity='1'
+					ModTime=1499970477
+					Library='Materials'
+					LibLocation='SysLibrary'
+					ModSinceLib=false
+				$end 'vacuum'
+			$end 'Materials'
+			$begin 'SurfaceMaterials'
+			$end 'SurfaceMaterials'
+		$end 'Definitions'
+	$end 'MaterialDefinitions'
+	$begin 'GeometryData'
+		$begin 'Variables'
+			$begin 'LocalVariables'
+				VariableProp('h_dielectric_microstrip', 'UD', '', '10mil')
+				VariableProp('h_copper', 'UD', '', '1copper_oz_per_ft2')
+				VariableProp('l_dielectric', 'UD', '', '5mm')
+				VariableProp('w_microstrip_70', 'UD', '', '0.261mm')
+				VariableProp('l_microstrip_70', 'UD', '', '4.86548mm')
+				VariableProp('w_dielectric', 'UD', '', '15mm')
+				VariableProp('w_microstrip', 'UD', '', '0.52725mm')
+			$end 'LocalVariables'
+		$end 'Variables'
+		$begin 'Datasets'
+		$end 'Datasets'
+		$begin 'GeometryCore'
+			BlockVersionID=3
+			DataVersion=4715
+			NativeKernel='PARASOLID'
+			NativeKernelVersionID=25
+			Units='mm'
+			ModelExtents=10000
+			InstanceID=-1
+			$begin 'ValidationOptions'
+				EntityCheckLevel='Strict'
+				IgnoreUnclassifiedObjects=false
+				SkipIntersectionChecks=false
+			$end 'ValidationOptions'
+			ContainsGeomLinkUDM=false
+			$begin 'GeometryOperations'
+				BlockVersionID=2
+				$begin 'AnsoftRangedIDServerManager'
+					$begin 'AnsoftRangedIDServer'
+						IDServerObjectTypeID=0
+						IDServerRangeMin=0
+						IDServerRangeMax=2146483647
+						NextUniqueID=1648
+						MoveBackwards=false
+					$end 'AnsoftRangedIDServer'
+					$begin 'AnsoftRangedIDServer'
+						IDServerObjectTypeID=1
+						IDServerRangeMin=2146483648
+						IDServerRangeMax=2146485547
+						NextUniqueID=2146483654
+						MoveBackwards=false
+					$end 'AnsoftRangedIDServer'
+				$end 'AnsoftRangedIDServerManager'
+				StartBackGroundFaceID=2146483648
+				$begin 'CoordinateSystems'
+					$begin 'Operation'
+						OperationType='CreateRelativeCoordinateSystem'
+						ID=1644
+						ReferenceCoordSystemID=1
+						$begin 'RelativeCSParameters'
+							KernelVersion=25
+							Mode='Axis/Position'
+							OriginX='0mm'
+							OriginY='-2.5mm'
+							OriginZ='-0.28805711242mm'
+							XAxisXvec='1mm'
+							XAxisYvec='0mm'
+							XAxisZvec='0mm'
+							YAxisXvec='0mm'
+							YAxisYvec='1mm'
+							YAxisZvec='0mm'
+						$end 'RelativeCSParameters'
+						ParentPartID=-1
+						ReferenceUDMID=-1
+						$begin 'Attributes'
+							Name='RelativeCS1'
+							UDMId=-1
+						$end 'Attributes'
+						$begin 'Operations'
+						$end 'Operations'
+						XYPlaneID=1645
+					$end 'Operation'
+				$end 'CoordinateSystems'
+				$begin 'OperandCSs'
+				$end 'OperandCSs'
+				$begin 'UserDefinedModels'
+				$end 'UserDefinedModels'
+				$begin 'OperandUserDefinedModels'
+				$end 'OperandUserDefinedModels'
+				$begin 'ToplevelParts'
+					$begin 'GeometryPart'
+						$begin 'Attributes'
+							Name='Microstrip'
+							Flags=''
+							Color='(242 140 102)'
+							Transparency=0
+							PartCoordinateSystem=1
+							UDMId=-1
+							GroupId=1635
+							MaterialValue='"copper"'
+							SurfaceMaterialValue='""'
+							SolveInside=false
+							ShellElement=false
+							ShellElementThickness='0mm'
+							ReferenceTemperature='20cel'
+							IsMaterialEditable=true
+							IsSurfaceMaterialEditable=true
+							UseMaterialAppearance=true
+							IsLightweight=false
+							IsAlwaysHidden=false
+						$end 'Attributes'
+						$begin 'PhysicsAttributes'
+							SuppressedForPhysics='False'
+							SuppressedForPhysicsEditable=true
+						$end 'PhysicsAttributes'
+						$begin 'Operations'
+							$begin 'Operation'
+								OperationType='Box'
+								ID=145
+								ReferenceCoordSystemID=1
+								$begin 'BoxParameters'
+									KernelVersion=23
+									XPosition='-w_microstrip/2'
+									YPosition='-l_dielectric/2'
+									ZPosition='-h_copper-h_dielectric_microstrip'
+									XSize='w_microstrip'
+									YSize='l_dielectric/2'
+									ZSize='-h_copper'
+								$end 'BoxParameters'
+								ParentPartID=146
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=6
+										NumWires=0
+										NumLoops=6
+										NumCoedges=24
+										NumEdges=12
+										NumVertices=8
+									$end 'Topology'
+									BodyID=146
+									StartFaceID=147
+									StartEdgeID=153
+									StartVertexID=165
+									NumNewFaces=6
+									NumNewEdges=12
+									NumNewVertices=8
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+								$end 'OperationIdentity'
+							$end 'Operation'
+						$end 'Operations'
+						$begin 'SubregionDependencyInformation'
+							ChildSubregions[0:]
+						$end 'SubregionDependencyInformation'
+					$end 'GeometryPart'
+					$begin 'GeometryPart'
+						$begin 'Attributes'
+							Name='Microstrip_70'
+							Flags=''
+							Color='(242 140 102)'
+							Transparency=0
+							PartCoordinateSystem=1
+							UDMId=-1
+							GroupId=1635
+							MaterialValue='"copper"'
+							SurfaceMaterialValue='""'
+							SolveInside=false
+							ShellElement=false
+							ShellElementThickness='0mm'
+							ReferenceTemperature='20cel'
+							IsMaterialEditable=true
+							IsSurfaceMaterialEditable=true
+							UseMaterialAppearance=true
+							IsLightweight=false
+							IsAlwaysHidden=false
+						$end 'Attributes'
+						$begin 'PhysicsAttributes'
+							SuppressedForPhysics='False'
+							SuppressedForPhysicsEditable=true
+						$end 'PhysicsAttributes'
+						$begin 'Operations'
+							$begin 'Operation'
+								OperationType='Box'
+								ID=1213
+								ReferenceCoordSystemID=1
+								$begin 'BoxParameters'
+									KernelVersion=23
+									XPosition='0'
+									YPosition='-w_microstrip_70/2'
+									ZPosition='-h_copper-h_dielectric_microstrip'
+									XSize='-l_microstrip_70'
+									YSize='w_microstrip_70'
+									ZSize='-h_copper'
+								$end 'BoxParameters'
+								ParentPartID=1214
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=6
+										NumWires=0
+										NumLoops=6
+										NumCoedges=24
+										NumEdges=12
+										NumVertices=8
+									$end 'Topology'
+									BodyID=1214
+									StartFaceID=1215
+									StartEdgeID=1221
+									StartVertexID=1233
+									NumNewFaces=6
+									NumNewEdges=12
+									NumNewVertices=8
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+								$end 'OperationIdentity'
+							$end 'Operation'
+							$begin 'Operation'
+								OperationType='Chamfer'
+								ID=1269
+								$begin 'ChamferParameters'
+									KernelVersion=25
+									PartID=1214
+									Edges[1: 1230]
+									Vertices[0:]
+									LeftDistance='w_microstrip_70/2'
+									RightDistance='w_microstrip_70/2'
+									ChamferType='Symmetric'
+									$begin 'ChamferAdditionalGeometryInfo'
+										$begin 'ChamferEdgeGeometryInfo'
+											ChamferEdgeID=1230
+											ChamferEdgeSense=true
+											$begin 'ChamferEdgeStart'
+												X='0mm'
+												Y='-0.1305mm'
+												Z='-0.28805711242mm'
+											$end 'ChamferEdgeStart'
+											$begin 'ChamferEdgeEnd'
+												X='0mm'
+												Y='-0.1305mm'
+												Z='-0.32211422484mm'
+											$end 'ChamferEdgeEnd'
+											$begin 'ChamferEdgeMid'
+												X='0mm'
+												Y='-0.1305mm'
+												Z='-0.30508566863mm'
+											$end 'ChamferEdgeMid'
+											ChamferEdgeMidTangent(0, 0, -1)
+										$end 'ChamferEdgeGeometryInfo'
+									$end 'ChamferAdditionalGeometryInfo'
+								$end 'ChamferParameters'
+								ParentPartID=1214
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=7
+										NumWires=0
+										NumLoops=7
+										NumCoedges=30
+										NumEdges=15
+										NumVertices=10
+									$end 'Topology'
+									BodyID=-1
+									StartFaceID=1270
+									StartEdgeID=1271
+									StartVertexID=1275
+									NumNewFaces=1
+									NumNewEdges=4
+									NumNewVertices=4
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'GeomTopolBasedOperationIdentityHelper'
+										$begin 'NewFaces'
+											$begin 'Face'
+												NormalizedSerialNum=0
+												ID=1270
+												$begin 'FaceGeomTopol'
+													FaceTopol(1, 4, 4, 4)
+													$begin 'FaceGeometry'
+														Area=0.0062854059514915999
+														FcUVMid(-0.065250000000000002, -0.065250000000000002, -0.30508566862999997)
+														$begin 'FcTolVts'
+															TolVt(-0.1305, -0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+															TolVt(-0.1305, -0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+															TolVt(0, 0, -0.32211422484000002, 4.9999999999999998e-07)
+															TolVt(0, 0, -0.28805711241999998, 4.9999999999999998e-07)
+														$end 'FcTolVts'
+													$end 'FaceGeometry'
+												$end 'FaceGeomTopol'
+											$end 'Face'
+										$end 'NewFaces'
+										$begin 'NewEdges'
+											$begin 'Edge'
+												NormalizedSerialNum=0
+												ID=1271
+												EdgeFaces(1215, 1270)
+												$begin 'EdTolVts'
+													TolVt(0, 0, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-0.1305, -0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.065249999999999697, -0.065250000000000002, -0.28805711241999998)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=1
+												ID=1272
+												EdgeFaces(1217, 1270)
+												$begin 'EdTolVts'
+													TolVt(-0.1305, -0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+													TolVt(-0.1305, -0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.1305, -0.1305, -0.30508566862999997)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=2
+												ID=1273
+												EdgeFaces(1216, 1270)
+												$begin 'EdTolVts'
+													TolVt(0, 0, -0.32211422484000002, 4.9999999999999998e-07)
+													TolVt(-0.1305, -0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.065249999999999697, -0.065250000000000002, -0.32211422484000002)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=3
+												ID=1274
+												EdgeFaces(1220, 1270)
+												$begin 'EdTolVts'
+													TolVt(0, 0, -0.32211422484000002, 4.9999999999999998e-07)
+													TolVt(0, 0, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(0, 0, -0.30508566862999997)
+											$end 'Edge'
+										$end 'NewEdges'
+										$begin 'NewVertices'
+											$begin 'Vertex'
+												NormalizedSerialNum=0
+												ID=1275
+												VtPos(-0.1305, -0.1305, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=1
+												ID=1276
+												VtPos(-0.1305, -0.1305, -0.32211422484000002)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=2
+												ID=1277
+												VtPos(0, 0, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=3
+												ID=1278
+												VtPos(0, 0, -0.32211422484000002)
+											$end 'Vertex'
+										$end 'NewVertices'
+									$end 'GeomTopolBasedOperationIdentityHelper'
+								$end 'OperationIdentity'
+								$begin 'InputIdentityGeom'
+									$begin 'EdgesInGeom'
+										$begin 'EdgeInData'
+											ID=1230
+											$begin 'EdgeGeomTopol'
+												EdgeFaces(1217, 1220)
+												$begin 'EdTolVts'
+													TolVt(0, -0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(0, -0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(0, -0.1305, -0.30508566862999997)
+											$end 'EdgeGeomTopol'
+										$end 'EdgeInData'
+									$end 'EdgesInGeom'
+								$end 'InputIdentityGeom'
+								BlendBaseOperationID=1213
+							$end 'Operation'
+							$begin 'Operation'
+								OperationType='Chamfer'
+								ID=1279
+								$begin 'ChamferParameters'
+									KernelVersion=25
+									PartID=1214
+									Edges[1: 1232]
+									Vertices[0:]
+									LeftDistance='w_microstrip_70/2'
+									RightDistance='w_microstrip_70/2'
+									ChamferType='Symmetric'
+									$begin 'ChamferAdditionalGeometryInfo'
+										$begin 'ChamferEdgeGeometryInfo'
+											ChamferEdgeID=1232
+											ChamferEdgeSense=true
+											$begin 'ChamferEdgeStart'
+												X='0mm'
+												Y='0.1305mm'
+												Z='-0.28805711242mm'
+											$end 'ChamferEdgeStart'
+											$begin 'ChamferEdgeEnd'
+												X='0mm'
+												Y='0.1305mm'
+												Z='-0.32211422484mm'
+											$end 'ChamferEdgeEnd'
+											$begin 'ChamferEdgeMid'
+												X='0mm'
+												Y='0.1305mm'
+												Z='-0.30508566863mm'
+											$end 'ChamferEdgeMid'
+											ChamferEdgeMidTangent(0, 0, -1)
+										$end 'ChamferEdgeGeometryInfo'
+									$end 'ChamferAdditionalGeometryInfo'
+								$end 'ChamferParameters'
+								ParentPartID=1214
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=7
+										NumWires=0
+										NumLoops=7
+										NumCoedges=30
+										NumEdges=15
+										NumVertices=10
+									$end 'Topology'
+									BodyID=-1
+									StartFaceID=1597
+									StartEdgeID=1598
+									StartVertexID=1601
+									NumNewFaces=1
+									NumNewEdges=3
+									NumNewVertices=2
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'GeomTopolBasedOperationIdentityHelper'
+										$begin 'NewFaces'
+											$begin 'Face'
+												NormalizedSerialNum=0
+												ID=1597
+												$begin 'FaceGeomTopol'
+													FaceTopol(1, 4, 4, 4)
+													$begin 'FaceGeometry'
+														Area=0.0062854059514915999
+														FcUVMid(-0.065250000000000002, 0.065250000000000002, -0.30508566862999997)
+														$begin 'FcTolVts'
+															TolVt(0, 0, -0.28805711241999998, 4.9999999999999998e-07)
+															TolVt(0, 0, -0.32211422484000002, 4.9999999999999998e-07)
+															TolVt(-0.1305, 0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+															TolVt(-0.1305, 0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+														$end 'FcTolVts'
+													$end 'FaceGeometry'
+												$end 'FaceGeomTopol'
+											$end 'Face'
+										$end 'NewFaces'
+										$begin 'NewEdges'
+											$begin 'Edge'
+												NormalizedSerialNum=0
+												ID=1598
+												EdgeFaces(1215, 1597)
+												$begin 'EdTolVts'
+													TolVt(0, 0, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-0.1305, 0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.065249999999999794, 0.065249999999999794, -0.28805711241999998)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=1
+												ID=1599
+												EdgeFaces(1216, 1597)
+												$begin 'EdTolVts'
+													TolVt(0, 0, -0.32211422484000002, 4.9999999999999998e-07)
+													TolVt(-0.1305, 0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.065249999999999794, 0.065249999999999794, -0.32211422484000002)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=2
+												ID=1600
+												EdgeFaces(1219, 1597)
+												$begin 'EdTolVts'
+													TolVt(-0.1305, 0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+													TolVt(-0.1305, 0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-0.1305, 0.1305, -0.30508566862999997)
+											$end 'Edge'
+										$end 'NewEdges'
+										$begin 'NewVertices'
+											$begin 'Vertex'
+												NormalizedSerialNum=0
+												ID=1601
+												VtPos(-0.1305, 0.1305, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=1
+												ID=1602
+												VtPos(-0.1305, 0.1305, -0.32211422484000002)
+											$end 'Vertex'
+										$end 'NewVertices'
+									$end 'GeomTopolBasedOperationIdentityHelper'
+								$end 'OperationIdentity'
+								$begin 'InputIdentityGeom'
+									$begin 'EdgesInGeom'
+										$begin 'EdgeInData'
+											ID=1232
+											$begin 'EdgeGeomTopol'
+												EdgeFaces(1219, 1220)
+												$begin 'EdTolVts'
+													TolVt(0, 0.1305, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(0, 0.1305, -0.32211422484000002, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(0, 0.1305, -0.30508566862999997)
+											$end 'EdgeGeomTopol'
+										$end 'EdgeInData'
+									$end 'EdgesInGeom'
+								$end 'InputIdentityGeom'
+								BlendBaseOperationID=1269
+							$end 'Operation'
+							$begin 'CloneToOperation'
+								OperationType='DuplicateMirror'
+								ID=1354
+								ReferenceCoordSystemID=1
+								$begin 'DuplicateToMirrorParameters'
+									DuplicateMirrorBaseX='0mm'
+									DuplicateMirrorBaseY='0mm'
+									DuplicateMirrorBaseZ='0mm'
+									DuplicateMirrorNormalX='1mm'
+									DuplicateMirrorNormalY='0mm'
+									DuplicateMirrorNormalZ='0mm'
+								$end 'DuplicateToMirrorParameters'
+								ParentPartID=1214
+								ReferenceUDMID=-1
+							$end 'CloneToOperation'
+						$end 'Operations'
+						$begin 'SubregionDependencyInformation'
+							ChildSubregions[0:]
+						$end 'SubregionDependencyInformation'
+					$end 'GeometryPart'
+					$begin 'GeometryPart'
+						$begin 'Attributes'
+							Name='Microstrip_50'
+							Flags=''
+							Color='(242 140 102)'
+							Transparency=0
+							PartCoordinateSystem=1
+							UDMId=-1
+							GroupId=1635
+							MaterialValue='"copper"'
+							SurfaceMaterialValue='""'
+							SolveInside=false
+							ShellElement=false
+							ShellElementThickness='0mm'
+							ReferenceTemperature='20cel'
+							IsMaterialEditable=true
+							IsSurfaceMaterialEditable=true
+							UseMaterialAppearance=true
+							IsLightweight=false
+							IsAlwaysHidden=false
+						$end 'Attributes'
+						$begin 'PhysicsAttributes'
+							SuppressedForPhysics='False'
+							SuppressedForPhysicsEditable=true
+						$end 'PhysicsAttributes'
+						$begin 'Operations'
+							$begin 'Operation'
+								OperationType='Box'
+								ID=1241
+								ReferenceCoordSystemID=1
+								$begin 'BoxParameters'
+									KernelVersion=23
+									XPosition='-l_microstrip_70'
+									YPosition='-w_microstrip/2'
+									ZPosition='-h_copper-h_dielectric_microstrip'
+									XSize='-(w_dielectric/2-l_microstrip_70)'
+									YSize='w_microstrip'
+									ZSize='-h_copper'
+								$end 'BoxParameters'
+								ParentPartID=1242
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=6
+										NumWires=0
+										NumLoops=6
+										NumCoedges=24
+										NumEdges=12
+										NumVertices=8
+									$end 'Topology'
+									BodyID=1242
+									StartFaceID=1243
+									StartEdgeID=1249
+									StartVertexID=1261
+									NumNewFaces=6
+									NumNewEdges=12
+									NumNewVertices=8
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+								$end 'OperationIdentity'
+							$end 'Operation'
+							$begin 'Operation'
+								OperationType='Chamfer'
+								ID=1289
+								$begin 'ChamferParameters'
+									KernelVersion=25
+									PartID=1242
+									Edges[1: 1258]
+									Vertices[0:]
+									LeftDistance='(w_microstrip-w_microstrip_70)/2'
+									RightDistance='(w_microstrip-w_microstrip_70)/2'
+									ChamferType='Symmetric'
+									$begin 'ChamferAdditionalGeometryInfo'
+										$begin 'ChamferEdgeGeometryInfo'
+											ChamferEdgeID=1258
+											ChamferEdgeSense=true
+											$begin 'ChamferEdgeStart'
+												X='-4.86548mm'
+												Y='-0.263625mm'
+												Z='-0.28805711242mm'
+											$end 'ChamferEdgeStart'
+											$begin 'ChamferEdgeEnd'
+												X='-4.86548mm'
+												Y='-0.263625mm'
+												Z='-0.32211422484mm'
+											$end 'ChamferEdgeEnd'
+											$begin 'ChamferEdgeMid'
+												X='-4.86548mm'
+												Y='-0.263625mm'
+												Z='-0.30508566863mm'
+											$end 'ChamferEdgeMid'
+											ChamferEdgeMidTangent(0, 0, -1)
+										$end 'ChamferEdgeGeometryInfo'
+									$end 'ChamferAdditionalGeometryInfo'
+								$end 'ChamferParameters'
+								ParentPartID=1242
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=7
+										NumWires=0
+										NumLoops=7
+										NumCoedges=30
+										NumEdges=15
+										NumVertices=10
+									$end 'Topology'
+									BodyID=-1
+									StartFaceID=1290
+									StartEdgeID=1291
+									StartVertexID=1295
+									NumNewFaces=1
+									NumNewEdges=4
+									NumNewVertices=4
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'GeomTopolBasedOperationIdentityHelper'
+										$begin 'NewFaces'
+											$begin 'Face'
+												NormalizedSerialNum=0
+												ID=1290
+												$begin 'FaceGeomTopol'
+													FaceTopol(1, 4, 4, 4)
+													$begin 'FaceGeometry'
+														Area=0.0064118365309756261
+														FcUVMid(-4.9320424999999997, -0.19706249999999997, -0.30508566862999997)
+														$begin 'FcTolVts'
+															TolVt(-4.9986049999999995, -0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+															TolVt(-4.9986049999999995, -0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+															TolVt(-4.8654799999999998, -0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+															TolVt(-4.8654799999999998, -0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+														$end 'FcTolVts'
+													$end 'FaceGeometry'
+												$end 'FaceGeomTopol'
+											$end 'Face'
+										$end 'NewFaces'
+										$begin 'NewEdges'
+											$begin 'Edge'
+												NormalizedSerialNum=0
+												ID=1291
+												EdgeFaces(1243, 1290)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, -0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-4.9986049999999995, -0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9320424999999997, -0.1970625, -0.28805711241999998)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=1
+												ID=1292
+												EdgeFaces(1245, 1290)
+												$begin 'EdTolVts'
+													TolVt(-4.9986049999999995, -0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.9986049999999995, -0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9986049999999995, -0.263625, -0.30508566862999997)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=2
+												ID=1293
+												EdgeFaces(1244, 1290)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, -0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.9986049999999995, -0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9320424999999997, -0.1970625, -0.32211422483999996)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=3
+												ID=1294
+												EdgeFaces(1248, 1290)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, -0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, -0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.8654799999999998, -0.13049999999999998, -0.30508566862999997)
+											$end 'Edge'
+										$end 'NewEdges'
+										$begin 'NewVertices'
+											$begin 'Vertex'
+												NormalizedSerialNum=0
+												ID=1295
+												VtPos(-4.9986049999999995, -0.263625, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=1
+												ID=1296
+												VtPos(-4.9986049999999995, -0.263625, -0.32211422483999996)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=2
+												ID=1297
+												VtPos(-4.8654799999999998, -0.13049999999999998, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=3
+												ID=1298
+												VtPos(-4.8654799999999998, -0.13049999999999998, -0.32211422483999996)
+											$end 'Vertex'
+										$end 'NewVertices'
+									$end 'GeomTopolBasedOperationIdentityHelper'
+								$end 'OperationIdentity'
+								$begin 'InputIdentityGeom'
+									$begin 'EdgesInGeom'
+										$begin 'EdgeInData'
+											ID=1258
+											$begin 'EdgeGeomTopol'
+												EdgeFaces(1245, 1248)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, -0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, -0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.8654799999999998, -0.263625, -0.30508566862999997)
+											$end 'EdgeGeomTopol'
+										$end 'EdgeInData'
+									$end 'EdgesInGeom'
+								$end 'InputIdentityGeom'
+								BlendBaseOperationID=1241
+							$end 'Operation'
+							$begin 'Operation'
+								OperationType='Chamfer'
+								ID=1299
+								$begin 'ChamferParameters'
+									KernelVersion=25
+									PartID=1242
+									Edges[1: 1260]
+									Vertices[0:]
+									LeftDistance='(w_microstrip-w_microstrip_70)/2'
+									RightDistance='(w_microstrip-w_microstrip_70)/2'
+									ChamferType='Symmetric'
+									$begin 'ChamferAdditionalGeometryInfo'
+										$begin 'ChamferEdgeGeometryInfo'
+											ChamferEdgeID=1260
+											ChamferEdgeSense=true
+											$begin 'ChamferEdgeStart'
+												X='-4.86548mm'
+												Y='0.263625mm'
+												Z='-0.28805711242mm'
+											$end 'ChamferEdgeStart'
+											$begin 'ChamferEdgeEnd'
+												X='-4.86548mm'
+												Y='0.263625mm'
+												Z='-0.32211422484mm'
+											$end 'ChamferEdgeEnd'
+											$begin 'ChamferEdgeMid'
+												X='-4.86548mm'
+												Y='0.263625mm'
+												Z='-0.30508566863mm'
+											$end 'ChamferEdgeMid'
+											ChamferEdgeMidTangent(0, 0, -1)
+										$end 'ChamferEdgeGeometryInfo'
+									$end 'ChamferAdditionalGeometryInfo'
+								$end 'ChamferParameters'
+								ParentPartID=1242
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=8
+										NumWires=0
+										NumLoops=8
+										NumCoedges=36
+										NumEdges=18
+										NumVertices=12
+									$end 'Topology'
+									BodyID=-1
+									StartFaceID=1300
+									StartEdgeID=1301
+									StartVertexID=1305
+									NumNewFaces=1
+									NumNewEdges=4
+									NumNewVertices=4
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'GeomTopolBasedOperationIdentityHelper'
+										$begin 'NewFaces'
+											$begin 'Face'
+												NormalizedSerialNum=0
+												ID=1300
+												$begin 'FaceGeomTopol'
+													FaceTopol(1, 4, 4, 4)
+													$begin 'FaceGeometry'
+														Area=0.0064118365309756261
+														FcUVMid(-4.9320424999999997, 0.1970625, -0.30508566862999997)
+														$begin 'FcTolVts'
+															TolVt(-4.8654799999999998, 0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+															TolVt(-4.8654799999999998, 0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+															TolVt(-4.9986049999999995, 0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+															TolVt(-4.9986049999999995, 0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+														$end 'FcTolVts'
+													$end 'FaceGeometry'
+												$end 'FaceGeomTopol'
+											$end 'Face'
+										$end 'NewFaces'
+										$begin 'NewEdges'
+											$begin 'Edge'
+												NormalizedSerialNum=0
+												ID=1301
+												EdgeFaces(1243, 1300)
+												$begin 'EdTolVts'
+													TolVt(-4.9986049999999995, 0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, 0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9320424999999997, 0.1970625, -0.28805711241999998)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=1
+												ID=1302
+												EdgeFaces(1248, 1300)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, 0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, 0.13049999999999998, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.8654799999999998, 0.13049999999999998, -0.30508566862999997)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=2
+												ID=1303
+												EdgeFaces(1244, 1300)
+												$begin 'EdTolVts'
+													TolVt(-4.9986049999999995, 0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, 0.13049999999999998, -0.32211422483999996, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9320424999999997, 0.1970625, -0.32211422483999996)
+											$end 'Edge'
+											$begin 'Edge'
+												NormalizedSerialNum=3
+												ID=1304
+												EdgeFaces(1247, 1300)
+												$begin 'EdTolVts'
+													TolVt(-4.9986049999999995, 0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+													TolVt(-4.9986049999999995, 0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.9986049999999995, 0.263625, -0.30508566862999997)
+											$end 'Edge'
+										$end 'NewEdges'
+										$begin 'NewVertices'
+											$begin 'Vertex'
+												NormalizedSerialNum=0
+												ID=1305
+												VtPos(-4.8654799999999998, 0.13049999999999998, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=1
+												ID=1306
+												VtPos(-4.8654799999999998, 0.13049999999999998, -0.32211422483999996)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=2
+												ID=1307
+												VtPos(-4.9986049999999995, 0.263625, -0.28805711241999998)
+											$end 'Vertex'
+											$begin 'Vertex'
+												NormalizedSerialNum=3
+												ID=1308
+												VtPos(-4.9986049999999995, 0.263625, -0.32211422483999996)
+											$end 'Vertex'
+										$end 'NewVertices'
+									$end 'GeomTopolBasedOperationIdentityHelper'
+								$end 'OperationIdentity'
+								$begin 'InputIdentityGeom'
+									$begin 'EdgesInGeom'
+										$begin 'EdgeInData'
+											ID=1260
+											$begin 'EdgeGeomTopol'
+												EdgeFaces(1247, 1248)
+												$begin 'EdTolVts'
+													TolVt(-4.8654799999999998, 0.263625, -0.28805711241999998, 4.9999999999999998e-07)
+													TolVt(-4.8654799999999998, 0.263625, -0.32211422483999996, 4.9999999999999998e-07)
+												$end 'EdTolVts'
+												EdgeMidPoint(-4.8654799999999998, 0.263625, -0.30508566862999997)
+											$end 'EdgeGeomTopol'
+										$end 'EdgeInData'
+									$end 'EdgesInGeom'
+								$end 'InputIdentityGeom'
+								BlendBaseOperationID=1289
+							$end 'Operation'
+							$begin 'CloneToOperation'
+								OperationType='DuplicateMirror'
+								ID=1395
+								ReferenceCoordSystemID=1
+								$begin 'DuplicateToMirrorParameters'
+									DuplicateMirrorBaseX='0mm'
+									DuplicateMirrorBaseY='0mm'
+									DuplicateMirrorBaseZ='0mm'
+									DuplicateMirrorNormalX='1mm'
+									DuplicateMirrorNormalY='0mm'
+									DuplicateMirrorNormalZ='0mm'
+								$end 'DuplicateToMirrorParameters'
+								ParentPartID=1242
+								ReferenceUDMID=-1
+							$end 'CloneToOperation'
+						$end 'Operations'
+						$begin 'SubregionDependencyInformation'
+							ChildSubregions[0:]
+						$end 'SubregionDependencyInformation'
+					$end 'GeometryPart'
+					$begin 'GeometryPart'
+						$begin 'Attributes'
+							Name='Microstrip_70_1'
+							Flags=''
+							Color='(242 140 102)'
+							Transparency=0
+							PartCoordinateSystem=1
+							UDMId=-1
+							GroupId=1635
+							MaterialValue='"copper"'
+							SurfaceMaterialValue='""'
+							SolveInside=false
+							ShellElement=false
+							ShellElementThickness='0mm'
+							ReferenceTemperature='20cel'
+							IsMaterialEditable=true
+							IsSurfaceMaterialEditable=true
+							UseMaterialAppearance=true
+							IsLightweight=false
+							IsAlwaysHidden=false
+						$end 'Attributes'
+						$begin 'PhysicsAttributes'
+							SuppressedForPhysics='False'
+							SuppressedForPhysicsEditable=true
+						$end 'PhysicsAttributes'
+						$begin 'Operations'
+							$begin 'Operation'
+								OperationType='DuplicateBodyMirror'
+								ID=1355
+								$begin 'CloneFromParameters'
+									KernelVersion=25
+									SourceID=1214
+									WhichClone=0
+								$end 'CloneFromParameters'
+								ParentPartID=1356
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=7
+										NumWires=0
+										NumLoops=7
+										NumCoedges=30
+										NumEdges=15
+										NumVertices=10
+									$end 'Topology'
+									BodyID=1356
+									StartFaceID=1603
+									StartEdgeID=1610
+									StartVertexID=1625
+									NumNewFaces=7
+									NumNewEdges=15
+									NumNewVertices=10
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'CloneFromOperationIdentityHelper'
+										CloneFaces('1215'='1357', '1216'='1358', '1217'='1359', '1218'='1360', '1219'='1361', '1270'='1363', '1597'='1609')
+										CloneEdges('1222'='1366', '1223'='1367', '1224'='1368', '1226'='1370', '1227'='1371', '1228'='1372', '1229'='1373', '1231'='1374', '1271'='1375', '1272'='1376', '1273'='1377', '1274'='1621', '1598'='1622', '1599'='1623', '1600'='1624')
+										CloneVertices('1235'='1383', '1236'='1384', '1239'='1385', '1240'='1386', '1275'='1387', '1276'='1388', '1277'='1631', '1278'='1632', '1601'='1633', '1602'='1634')
+										CloneIdentityHelperKernelType=1
+									$end 'CloneFromOperationIdentityHelper'
+									OriginalFaceIDs(1215, 1216, 1217, 1218, 1219, 1270, 1597)
+									OriginalEdgeIDs(1222, 1223, 1224, 1226, 1227, 1228, 1229, 1231, 1271, 1272, 1273, 1274, 1598, 1599, 1600)
+									OriginalVertexIDs(1235, 1236, 1239, 1240, 1275, 1276, 1277, 1278, 1601, 1602)
+								$end 'OperationIdentity'
+								PlaceHolderOpnId=1354
+							$end 'Operation'
+						$end 'Operations'
+						$begin 'SubregionDependencyInformation'
+							ChildSubregions[0:]
+						$end 'SubregionDependencyInformation'
+					$end 'GeometryPart'
+					$begin 'GeometryPart'
+						$begin 'Attributes'
+							Name='Microstrip_50_1'
+							Flags=''
+							Color='(242 140 102)'
+							Transparency=0
+							PartCoordinateSystem=1
+							UDMId=-1
+							GroupId=1635
+							MaterialValue='"copper"'
+							SurfaceMaterialValue='""'
+							SolveInside=false
+							ShellElement=false
+							ShellElementThickness='0mm'
+							ReferenceTemperature='20cel'
+							IsMaterialEditable=true
+							IsSurfaceMaterialEditable=true
+							UseMaterialAppearance=true
+							IsLightweight=false
+							IsAlwaysHidden=false
+						$end 'Attributes'
+						$begin 'PhysicsAttributes'
+							SuppressedForPhysics='False'
+							SuppressedForPhysicsEditable=true
+						$end 'PhysicsAttributes'
+						$begin 'Operations'
+							$begin 'Operation'
+								OperationType='DuplicateBodyMirror'
+								ID=1396
+								$begin 'CloneFromParameters'
+									KernelVersion=25
+									SourceID=1242
+									WhichClone=0
+								$end 'CloneFromParameters'
+								ParentPartID=1397
+								ReferenceUDMID=-1
+								IsSuppressed=false
+								$begin 'OperationIdentity'
+									$begin 'Topology'
+										NumLumps=1
+										NumShells=1
+										NumFaces=8
+										NumWires=0
+										NumLoops=8
+										NumCoedges=36
+										NumEdges=18
+										NumVertices=12
+									$end 'Topology'
+									BodyID=1397
+									StartFaceID=1398
+									StartEdgeID=1406
+									StartVertexID=1424
+									NumNewFaces=8
+									NumNewEdges=18
+									NumNewVertices=12
+									FaceNameAndIDMap()
+									EdgeNameAndIDMap()
+									VertexNameAndIDMap()
+									$begin 'CloneFromOperationIdentityHelper'
+										CloneFaces('1243'='1398', '1244'='1399', '1245'='1400', '1246'='1401', '1247'='1402', '1248'='1403', '1290'='1404', '1300'='1405')
+										CloneEdges('1249'='1406', '1250'='1407', '1251'='1408', '1252'='1409', '1253'='1410', '1254'='1411', '1255'='1412', '1256'='1413', '1257'='1414', '1259'='1415', '1291'='1416', '1292'='1417', '1293'='1418', '1294'='1419', '1301'='1420', '1302'='1421', '1303'='1422', '1304'='1423')
+										CloneVertices('1263'='1424', '1264'='1425', '1267'='1426', '1268'='1427', '1295'='1428', '1296'='1429', '1297'='1430', '1298'='1431', '1305'='1432', '1306'='1433', '1307'='1434', '1308'='1435')
+										CloneIdentityHelperKernelType=1
+									$end 'CloneFromOperationIdentityHelper'
+									OriginalFaceIDs(1243, 1244, 1245, 1246, 1247, 1248, 1290, 1300)
+									OriginalEdgeIDs(1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1259, 1291, 1292, 1293, 1294, 1301, 1302, 1303, 1304)
+									OriginalVertexIDs(1263, 1264, 1267, 1268, 1295, 1296, 1297, 1298, 1305, 1306, 1307, 1308)
+								$end 'OperationIdentity'
+								PlaceHolderOpnId=1395
+							$end 'Operation'
+						$end 'Operations'
+						$begin 'SubregionDependencyInformation'
+							ChildSubregions[0:]
+						$end 'SubregionDependencyInformation'
+					$end 'GeometryPart'
+				$end 'ToplevelParts'
+				$begin 'OperandParts'
+				$end 'OperandParts'
+				$begin 'Planes'
+				$end 'Planes'
+				$begin 'Points'
+				$end 'Points'
+				$begin 'GeometryEntityLists'
+				$end 'GeometryEntityLists'
+				$begin 'RegionIdentity'
+					$begin 'Topology'
+						NumLumps=1
+						NumShells=1
+						NumFaces=6
+						NumWires=0
+						NumLoops=6
+						NumCoedges=24
+						NumEdges=12
+						NumVertices=8
+					$end 'Topology'
+					BodyID=174
+					StartFaceID=175
+					StartEdgeID=181
+					StartVertexID=193
+					NumNewFaces=6
+					NumNewEdges=12
+					NumNewVertices=8
+					FaceNameAndIDMap()
+					EdgeNameAndIDMap()
+					VertexNameAndIDMap()
+					IsXZ2DModeler=false
+				$end 'RegionIdentity'
+				$begin 'CachedNames'
+					$begin 'allobjects'
+						allobjects(-1)
+					$end 'allobjects'
+					$begin 'dielectricantenna'
+						dielectricantenna(-1)
+					$end 'dielectricantenna'
+					$begin 'dielectricmicrostrip'
+						dielectricmicrostrip(-1)
+					$end 'dielectricmicrostrip'
+					$begin 'global'
+						global(-1)
+					$end 'global'
+					$begin 'ground'
+						ground(-1)
+					$end 'ground'
+					$begin 'microstrip'
+						microstrip(-1)
+					$end 'microstrip'
+					$begin 'microstrip_'
+						microstrip_(50, 70)
+					$end 'microstrip_'
+					$begin 'microstrip_50_'
+						microstrip_50_(1)
+					$end 'microstrip_50_'
+					$begin 'microstrip_70_'
+						microstrip_70_(1)
+					$end 'microstrip_70_'
+					$begin 'microstrip_group'
+						microstrip_group(-1)
+					$end 'microstrip_group'
+					$begin 'model'
+						model(-1)
+					$end 'model'
+					$begin 'peccap'
+						peccap(1, 2, 3)
+					$end 'peccap'
+					$begin 'prepreg'
+						prepreg(-1)
+					$end 'prepreg'
+					$begin 'radiatingsurface'
+						radiatingsurface(-1)
+					$end 'radiatingsurface'
+					$begin 'rectangle'
+						rectangle(1, 2, 3)
+					$end 'rectangle'
+					$begin 'relativecs'
+						relativecs(1)
+					$end 'relativecs'
+				$end 'CachedNames'
+			$end 'GeometryOperations'
+			$begin 'GeometryDependencies'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 145)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1213)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1269)
+					DependencyObject('GeometryBodyOperation', 1213)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1279)
+					DependencyObject('GeometryBodyOperation', 1269)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryOperation', 1354)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1241)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1289)
+					DependencyObject('GeometryBodyOperation', 1241)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryBodyOperation', 1299)
+					DependencyObject('GeometryBodyOperation', 1289)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('GeometryOperation', 1395)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=2
+					DependencyObject('GeometryBodyOperation', 1355)
+					DependencyObject('GeometryOperation', 1354)
+					DependencyObject('GeometryBodyOperation', 1279)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=2
+					DependencyObject('GeometryBodyOperation', 1396)
+					DependencyObject('GeometryOperation', 1395)
+					DependencyObject('GeometryBodyOperation', 1299)
+				$end 'DependencyInformation'
+				$begin 'DependencyInformation'
+					NumParents=1
+					DependencyObject('CoordinateSystem', 1644)
+					DependencyObject('CoordinateSystem', 1)
+				$end 'DependencyInformation'
+			$end 'GeometryDependencies'
+		$end 'GeometryCore'
+		$begin 'AssignedEntities'
+			AssignedObject[4: 174, 202, 1437, 1449]
+		$end 'AssignedEntities'
+		$begin 'Settings'
+			IncludedParts[5: 146, 1242, 1397, 1214, 1356]
+			HiddenParts[0:]
+			IncludedCS[1: 1644]
+			DefaultHandle=1644
+			IncludedParameters('h_copper', 'h_dielectric_microstrip', 'l_dielectric', 'l_microstrip_70', 'w_dielectric', 'w_microstrip', 'w_microstrip_70')
+			IncludedDependentParameters()
+			ParameterDescription(h_copper='', h_dielectric_microstrip='', l_dielectric='', l_microstrip_70='', w_dielectric='', w_microstrip='', w_microstrip_70='')
+		$end 'Settings'
+	$end 'GeometryData'
+$end 'ComponentBody'
+$begin 'AllReferencedFilesForComponent'
+$end 'AllReferencedFilesForComponent'
